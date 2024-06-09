@@ -27,6 +27,7 @@ html{
 .scontainer{
     height: 40px;
     color: #F4eee1;
+    text-decoration: none;
 }
 
 
@@ -233,7 +234,7 @@ html{
 }
 
 #z3{
-    padding-left: 60%;
+    padding-left: 55%;
 }
 
 #z4{
@@ -241,7 +242,7 @@ html{
 }
 
 #z6{
-    padding-left: 65%;
+    padding-left: 55%;
 }
 
 

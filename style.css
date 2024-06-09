@@ -24,6 +24,10 @@ html{
     text-decoration: none;
 }
 
+.containers a{
+    text-decoration: none;
+}
+
 .scontainer{
     height: 40px;
     color: #F4eee1;
@@ -234,7 +238,7 @@ html{
 }
 
 #z3{
-    padding-left: 55%;
+    padding-left: calc(80% - 15px);
 }
 
 #z4{
@@ -242,7 +246,7 @@ html{
 }
 
 #z6{
-    padding-left: 55%;
+    padding-left: calc(90% - 15px);
 }
 
 

@@ -6,7 +6,6 @@
 
 html{
     font-family: "Poppins", sans-serif;
-    text-decoration: none;
 }
 
 #alles{
@@ -27,6 +26,7 @@ html{
 .scontainer{
     height: 40px;
     color: #F4eee1;
+    text-decoration: none;
 }
 
 .bcontainer{

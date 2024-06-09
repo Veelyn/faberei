@@ -21,6 +21,7 @@ html{
     flex-direction: column;
     width: 50%;
     border: 0px solid;
+    text-decoration: none;
 }
 
 .scontainer{
@@ -28,9 +29,6 @@ html{
     color: #F4eee1;
 }
 
-.a {
-    text-decoration: none;
-}
 
 .bcontainer{
     background-color: rgb(16, 85, 53);

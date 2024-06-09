@@ -6,6 +6,7 @@
 
 html{
     font-family: "Poppins", sans-serif;
+    text-decoration: none;
 }
 
 #alles{
@@ -231,7 +232,7 @@ html{
 }
 
 #z3{
-    padding-left: 65%;
+    padding-left: 60%;
 }
 
 #z4{
